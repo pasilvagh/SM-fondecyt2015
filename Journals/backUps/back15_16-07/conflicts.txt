@@ -1,0 +1,34 @@
+Computer&Sec
+-En el archivo antiguo se habían agregado registros repetidos del volumen 30 issue 8.
+-Durante el tiempo que se realizó la primera búsqueda y la actual, se agregaron 2 registros.
+-Se dejará el archivo más reciente (15-07)
+
+InfoSec&App
+-Se dejará el archivo más reciente (15-07) por que agregaron más artículos
+-No hubo problemas
+
+InfoSecTechRep
+-Faltaban artículos del volume 16 issue 3
+-Se dejará el archivo más reciente (15-07) por que posee todos.
+
+JUCS
+-Se dejará el archivo más reciente (15-07) por que agregaron más artículos
+-No hubo problemas
+
+SystemArch
+-La nueva extracción produjo más resultados. Quedarse con la búsqueda más actual.
+
+SystemSoft
+-Se repitieron registros del volumen 100
+-La versión antigua contempla más años. Al eliminar los años extras, ambos obtuvieron la misma cantidad de registros.
+-La versión nueva se mantiene.
+
+TransSecDep
+-Misma cantidad de artículos
+
+TransSoftEng
+-Misma cantidad de artículos
+
+InfoSoft
+-Se dejará el archivo más reciente (15-07) por que agregaron más artículos
+-No hubo problemas

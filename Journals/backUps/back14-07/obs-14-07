@@ -1,0 +1,40 @@
+﻿Sin querer se ejecutó 2 veces la extracción en los Journals:
+01641212, 
+09505849.
+Se verificó que la duplicación tenía la misma cantidad de filas y se eliminío las copias.
+
+
+
+no se copiaron todos los registros de forma correcta con la nueva versión del algoritmo:
+-Computer&Sec -> se usará archivo antiguo
+-System and Software
+
+nuevos archivos tienen más registros que viejos archivos:
+-InfoSecTechRep
+-SystemArch
+
+
+
+TIENEN LA MISMA CANTIDAD DE ELEMENTOS QUE LA PRIMERA BÚSQUEDA + los elementos actuales a la fecha:
+-JUCS
+-Trans. Soft Eng
+-Trans. Dep Soft
+-Inf&Soft
+-InfoSec&App
+
+Manuales que no necesitan cambiar:
+-Req Eng
+-InterJournalSecSoftDev
+
+
+Se revisaran los archivos con la herramienta DIFF, para ver las diferencias (por ver)
+
+
+Dado que algunos archivos pasa lo siguiente:
+-Los archivos viejos tienen más filas que los nuevos (es decir, más estudios)
+	-Se dejarán los antiguos.
+
+-Los archivos nuevos tienen más filas que los viejos (es decir, más estudios)
+	-Se dejarán los archivos más nuevos.
+
+-Los archivos que no cambian de cantidad de fila, se dejaran las copias antiguas.
